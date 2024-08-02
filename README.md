@@ -67,8 +67,3 @@ have suggestions, please open an issue in the repository.
 License
 -------
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
--------
-[Your Name or Organization]
-[Your Contact Information]
